@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+server/uploads/*
+!server/uploads/.gitkeep
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+__pycache__/
